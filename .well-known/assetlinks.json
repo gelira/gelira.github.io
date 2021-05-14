@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gelira.twa",
+    "sha256_cert_fingerprints": [
+      "95:D3:C3:D7:B2:F6:25:93:79:BC:8A:A9:45:37:78:8E:72:02:4B:01:45:25:B3:B5:D9:37:0E:C8:74:F2:CB:37"
+    ]
+  }
+}]
